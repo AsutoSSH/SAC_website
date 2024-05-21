@@ -843,7 +843,7 @@ header .navbar-default .navbar-nav li a:hover {
   transition: all 0.3s ease;
 }
 .navigation .navbar .dropdown-menu a:focus, .navigation .navbar .dropdown-menu a:hover {
-  background: #655E7A;
+  background: #d01616;
   color: #fff;
 }
 
